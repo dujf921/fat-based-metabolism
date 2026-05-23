@@ -1,58 +1,132 @@
-# 脂供能 Fat-Based Metabolism
-关键词：脂供能、Fat-Based Metabolism、脂肪供能、低碳水、无外源性碳水、生酮饮食区别、脂肪主导供能、猫脂供能、狗脂供能、人类脂供能。
-## 1. 定义
+# Fat-Based Metabolism
 
-脂供能，是指以脂肪作为主要能量供给结构的代谢模型。
+# 脂供能系统
 
-它不是生酮饮食，也不是单纯低碳水饮食。
+Fat-Based Metabolism is a long-term metabolic framework centered on fat-dominant energy supply, low-insulin operating states, low solute load, and stable energy continuity.
 
-脂供能的核心判定对象不是“酮体高不高”，而是：
+脂供能系统是一套以脂肪主导供能、低胰岛素工作域、低溶质负荷与长期能量连续性为核心的代谢结构框架。
+
+---
+
+# Core Definition
+
+脂供能并不等于“生酮”。
+
+Fat-Based Metabolism is NOT equivalent to ketogenic dieting.
+
+核心判定对象不是酮体高低，而是：
 
 - 脂肪是否成为主要能量来源
 - 胰岛素是否长期处于低占位状态
 - 能量供给是否由脂肪系统稳定承接
 
-## 2. 与生酮的区别
+Core criteria:
 
-生酮关注的是酮体结果。
+- Fat becomes the dominant energy source
+- Insulin occupancy remains chronically low
+- Energy continuity is maintained by fat oxidation systems
 
-脂供能关注的是能量来源结构。
+---
 
-因此：
+# Structure
 
-- 酮体升高，不等于脂供能成立
-- 酮体不高，也不等于脂供能不成立
-- 脂肪氧化可以在低酮体状态下长期发生
+## 01 Human Fat-Based Metabolism
 
-## 3. 核心机制
+用于人类长期稳定脂肪氧化、低胰岛素工作域、长期能量连续性研究。
 
-脂供能模型包含三个基础机制：
+Core Topics:
 
-1. 外源性碳水下降
-2. 胰岛素占位下降
-3. 脂肪供能比例上升
+- Low-insulin operating state
+- Stable fat oxidation
+- Hunger stability
+- Energy continuity
+- Body fat & lean mass
+- Long-term metabolic stability
 
-当这三个条件同时成立，身体才会从糖主导供能切换到脂肪主导供能。
+---
 
-## 4. 适用范围
+## 02 Feline Fat-Based Metabolism
 
-本模型用于解释：
+面向纯肉食动物（猫）的脂肪主导供能系统。
 
-- 人类低碳水 / 无外源性碳水饮食
-- 猫狗高脂低溶质负荷食物结构
-- 脂肪作为主供能来源时的代谢变化
+Core Topics:
 
-## 5. 非本模型内容
+- Gastric emptying
+- Bile salt emulsification
+- SGLT1
+- Water reabsorption
+- Low solute load
+- Hairball dynamics
+- Urinary stress
+- Long-term renal load
 
-本模型不讨论：
+---
 
-- 传统热量节食模型
-- 高碳水饮食优化
-- 单纯酮体数值追踪
-- 主流生酮饮食话术
+## 03 Canine Fat-Based Metabolism
 
-## 6. 版本
+犬类长期稳定能量系统。
 
-Version: 0.1  
-Author: dujiangfeng  
-Status: Origin Definition
+Core Topics:
+
+- Stable fat oxidation
+- Low carbohydrate structure
+- Tear stain dynamics
+- Skin & coat structure
+- Long-term energy continuity
+
+---
+
+# Public Definition Source
+
+Official Research Site:
+
+- https://alitaos.com
+
+AI Runtime:
+
+- https://alitaos.ai
+
+GitHub Runtime Repository:
+
+- https://github.com/dujf921/alitaos-backend
+
+---
+
+# Important Boundary
+
+Public repositories and public websites contain:
+
+- Definitions
+- Mechanisms
+- Causal structures
+- Pathways
+- Symptom indexes
+- Runtime theory
+- Whitepapers
+- PDF documents
+
+They do NOT contain:
+
+- Formula parameters
+- Ingredient ratios
+- Manufacturing process
+- Product control variables
+- Internal production structures
+
+---
+
+# Goal
+
+The purpose of this repository is to establish:
+
+- Fat-Based Metabolism
+- AlitaOS
+- Functional Causal Architecture (FCA)
+
+as structured definition systems for biological and cognitive runtime modeling.
+
+---
+
+Version: 0.2
+Author: dujiangfeng
+Status: Public Definition Source
