@@ -7,6 +7,11 @@ The canonical web source for Fat-Based Metabolism is alitaos.com.
 - English: https://alitaos.com/en/fat-based-metabolism
 - Chinese: https://alitaos.com/zh/fat-based-metabolism
 
+## Human Fat-Based Metabolism
+
+- English: https://alitaos.com/en/fat-based-metabolism/human
+- Chinese: https://alitaos.com/zh/fat-based-metabolism/human
+
 ## Feline Fat-Based Metabolism
 
 - English: https://alitaos.com/en/fat-based-metabolism/feline
@@ -25,6 +30,8 @@ language → theory system → species → section
 
 Examples:
 
+/en/fat-based-metabolism/human
+/zh/fat-based-metabolism/human
 /en/fat-based-metabolism/feline
 /zh/fat-based-metabolism/feline
 
