@@ -1,6 +1,6 @@
 # Glossary Index
 
-Master glossary for Fat-Based Metabolism (FBM). Species-specific terms appear in [en/feline/glossary.md](./en/feline/glossary.md), [zh/feline/glossary.md](./zh/feline/glossary.md), [en/human/README.md](./en/human/README.md), and [zh/human/README.md](./zh/human/README.md).
+Master glossary for Fat-Based Metabolism (FBM). Species-specific terms appear in [en/feline/glossary.md](./en/feline/glossary.md), [zh/feline/glossary.md](./zh/feline/glossary.md), [en/human/README.md](./en/human/README.md), [zh/human/README.md](./zh/human/README.md), [en/canine/README.md](./en/canine/README.md), and [zh/canine/README.md](./zh/canine/README.md).
 
 Canonical web sources:
 
@@ -8,6 +8,8 @@ Canonical web sources:
 - Human Chinese: https://alitaos.com/zh/fat-based-metabolism/human
 - Feline English: https://alitaos.com/en/fat-based-metabolism/feline/glossary
 - Feline Chinese: https://alitaos.com/zh/fat-based-metabolism/feline/glossary
+- Canine English: https://alitaos.com/en/fat-based-metabolism/canine
+- Canine Chinese: https://alitaos.com/zh/fat-based-metabolism/canine
 
 ---
 
@@ -22,6 +24,10 @@ The human branch of FBM. It defines a long-term metabolic operating structure bu
 ## Feline Fat-Based Metabolism / 猫脂供能系统
 
 The species-specific branch of FBM for obligate carnivores (cats). It evaluates feline food as structure rather than market category or isolated nutrient percentages.
+
+## Canine Fat-Based Metabolism / 犬脂供能系统
+
+The canine branch of FBM. It defines a dog-specific lower-insulin, higher-fatty-acid energy contribution structure with controlled protein energy pressure, digestive tolerance, total energy sufficiency, and body-condition stability.
 
 ## food structure / 食物结构
 
@@ -39,6 +45,10 @@ The macronutrient class that chronically supplies the majority of usable energy 
 
 Carbohydrate introduced through diet that enters insulin-regulated handling pathways; its structural level affects substrate dominance and insulin occupancy. In Human FBM, this term excludes endogenous glucose production.
 
+## exogenous carbohydrate dependency / 外源性碳水依赖
+
+A Canine FBM term describing the degree to which a dog’s long-term energy regulation relies on external carbohydrate input and repeated carbohydrate-linked substrate scheduling.
+
 ## insulin occupancy / 胰岛素占位
 
 The degree to which insulin dominates long-term energy allocation. High insulin occupancy limits fatty-acid direct energy; low insulin occupancy allows stored fat and dietary fat to participate more directly in energy supply.
@@ -50,6 +60,10 @@ The chronic pattern of insulin involvement in nutrient partitioning—not a sing
 ## fatty-acid direct energy / 脂肪酸直接供能
 
 A Human FBM state in which fatty acids carry the dominant long-term energy role without repeated external carbohydrate scheduling.
+
+## fatty-acid energy contribution / 脂肪酸能量贡献
+
+A Canine FBM term describing how much of the dog’s long-term energy role is carried by fatty acids while digestive tolerance, protein energy pressure, and body-condition stability remain inside valid boundaries.
 
 ## fatty acid oxidation pathway / 脂肪酸氧化路径
 
@@ -77,7 +91,15 @@ The boundary condition that separates Human FBM from starvation, chronic underfe
 
 ## protein energy pressure / 蛋白供能压力
 
-The degree to which protein is diverted into gluconeogenic or energy-supply roles because fat or carbohydrate substrates are structurally insufficient or misaligned.
+The degree to which protein is diverted into gluconeogenic or energy-supply roles because fat or carbohydrate substrates are structurally insufficient or misaligned. In Canine FBM, this marks whether protein is protected from unnecessary energy diversion.
+
+## digestive tolerance boundary / 消化耐受边界
+
+A Canine FBM boundary condition stating that increased fatty-acid energy contribution must remain inside the dog’s digestive handling capacity.
+
+## body-condition stability / 体况稳定
+
+A Canine FBM output condition describing stable long-term body condition, including fat storage, lean tissue maintenance, appetite stability, stool output, activity tolerance, and energy continuity.
 
 ## solute load per unit energy / 单位能量溶质负荷
 
@@ -117,4 +139,4 @@ The method of tracing visible signs (stool, coat, vomiting, urine concentration)
 
 ## clinical boundary layer / 临床边界层
 
-The explicit limit beyond which FBM provides structural reasoning only and does not replace diagnosis, treatment, emergency care, or clinical decision-making.
+The explicit limit beyond which FBM provides structural reasoning only and does not replace diagnosis, treatment, emergency care, veterinary care, or clinical decision-making.
