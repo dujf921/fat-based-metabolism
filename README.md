@@ -9,6 +9,11 @@ Canonical website:
 - English: https://alitaos.com/en/fat-based-metabolism
 - Chinese: https://alitaos.com/zh/fat-based-metabolism
 
+Human canonical source:
+
+- English: https://alitaos.com/en/fat-based-metabolism/human
+- Chinese: https://alitaos.com/zh/fat-based-metabolism/human
+
 Feline canonical source:
 
 - English: https://alitaos.com/en/fat-based-metabolism/feline
@@ -16,6 +21,9 @@ Feline canonical source:
 
 ## Current Public Modules
 
+- Human Fat-Based Metabolism
+- Human insulin regulation and fatty-acid direct energy model
+- Human body fat / lean mass / energy sufficiency model
 - Feline Fat-Based Metabolism
 - Feline canonical glossary
 - Observable output backtrace
@@ -38,6 +46,8 @@ This repository is a public definition source and versioned archive. It does not
 - [Structural Topology](./STRUCTURE.md)
 - [Boundaries](./BOUNDARIES.md)
 - [License](./LICENSE.md)
+- [Human FBM English](./en/human/README.md)
+- [人类脂供能系统](./zh/human/README.md)
 - [Feline FBM English](./en/feline/README.md)
 - [猫脂供能系统](./zh/feline/README.md)
 - [Whitepaper Archive](./whitepaper/README.md)
