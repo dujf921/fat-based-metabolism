@@ -19,6 +19,11 @@ Feline canonical source:
 - English: https://alitaos.com/en/fat-based-metabolism/feline
 - Chinese: https://alitaos.com/zh/fat-based-metabolism/feline
 
+Canine canonical source:
+
+- English: https://alitaos.com/en/fat-based-metabolism/canine
+- Chinese: https://alitaos.com/zh/fat-based-metabolism/canine
+
 ## Current Public Modules
 
 - Human Fat-Based Metabolism
@@ -33,6 +38,9 @@ Feline canonical source:
 - Renal solute load
 - Skin-sebum system
 - Hairball pathway
+- Canine Fat-Based Metabolism
+- Canine carbohydrate dependency and fatty-acid contribution model
+- Canine protein energy pressure and digestive tolerance boundary
 - Boundary conditions
 
 ## Repository Role
@@ -50,6 +58,8 @@ This repository is a public definition source and versioned archive. It does not
 - [人类脂供能系统](./zh/human/README.md)
 - [Feline FBM English](./en/feline/README.md)
 - [猫脂供能系统](./zh/feline/README.md)
+- [Canine FBM English](./en/canine/README.md)
+- [犬脂供能系统](./zh/canine/README.md)
 - [Whitepaper Archive](./whitepaper/README.md)
 
 ## License and Use
