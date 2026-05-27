@@ -51,6 +51,24 @@ Feline FBM evaluates obligate carnivore nutrition through:
 11. Observable Output Backtrace
 12. Clinical Boundary Layer
 
+Feline FBM uses the obligate-carnivore premise. It must not be directly transferred to dogs or humans.
+
+## Canine FBM Layers
+
+Canine FBM evaluates dog-specific metabolic structure through:
+
+1. Species Boundary: not Feline FBM
+2. Exogenous Carbohydrate Dependency
+3. Insulin Regulation State
+4. Fatty-Acid Energy Contribution
+5. Protein Energy Pressure
+6. Digestive Tolerance Boundary
+7. Total Energy Sufficiency
+8. Body-Condition Stability
+9. Clinical Boundary Layer
+
+Canine FBM does not copy feline obligate-carnivore assumptions. It defines a dog-specific lower-carbohydrate, lower-insulin structure that allows fatty acids to carry a higher energy contribution while protein energy pressure and digestive tolerance remain controlled.
+
 ## Causal Direction
 
 **Observable output is not root cause.**
@@ -73,6 +91,8 @@ Public species-specific documentation:
 - [人类脂供能系统 (中文)](./zh/human/README.md)
 - [Feline FBM (English)](./en/feline/README.md)
 - [猫脂供能系统 (中文)](./zh/feline/README.md)
+- [Canine FBM (English)](./en/canine/README.md)
+- [犬脂供能系统 (中文)](./zh/canine/README.md)
 
 ## Related Documents
 
