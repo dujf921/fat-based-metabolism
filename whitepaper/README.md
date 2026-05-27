@@ -4,16 +4,22 @@ This directory contains public Markdown source documents for Fat-Based Metabolis
 
 ## Source Documents
 
+- [Human Fat-Based Metabolism — English](./human-fbm-en.md)
+- [人类脂供能系统 — 中文](./human-fbm-zh.md)
 - [Feline Fat-Based Metabolism — English](./feline-fbm-en.md)
 - [猫脂供能系统 — 中文](./feline-fbm-zh.md)
 
-## Planned PDF Files
+## Planned / Published PDF Files
 
+- Human Fat-Based Metabolism — English PDF
+- 人类脂供能系统 — 中文 PDF
 - Feline Fat-Based Metabolism — English PDF
 - 猫脂供能系统 — 中文 PDF
 
 Canonical website:
 
+- https://alitaos.com/en/fat-based-metabolism/human
+- https://alitaos.com/zh/fat-based-metabolism/human
 - https://alitaos.com/en/fat-based-metabolism/feline
 - https://alitaos.com/zh/fat-based-metabolism/feline
 
