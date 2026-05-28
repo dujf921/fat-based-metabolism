@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+title: "Fat-Based Metabolism: A Food-Structure and Metabolic-State Framework"
+authors:
+  - family-names: "Du"
+    given-names: "Jiangfeng"
+repository-code: "https://github.com/dujf921/fat-based-metabolism"
+url: "https://alitaos.com/en/fat-based-metabolism"
+version: "1.0.0"
+date-released: "2026-05-28"
+message: "If you use Fat-Based Metabolism, please cite this repository."

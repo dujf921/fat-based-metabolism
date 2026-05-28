@@ -50,7 +50,7 @@ Stool output is a high-priority backtrace signal for processing load and recover
 Body condition, appetite, coat/skin, and activity tolerance are output-layer signals. Body-condition stability cannot be replaced by short-term weight fluctuation. Appetite decline does not equal FBM success, and coat/skin/activity changes must remain multi-variable backtrace items.
 
 ### 17. Clinical Boundary
-structural nutrition language, not a diagnostic system, cannot replace veterinary supervision, enters clinical boundary. Acute symptoms, diagnosed disease states, or complex comorbidity scenarios should move to clinical workflow first.
+Canine FBM is structural nutrition language, not a diagnostic system. It cannot replace veterinary supervision. Acute symptoms, diagnosed disease states, or complex comorbidity scenarios should enter clinical workflow first.
 
 ### 18. Medication Boundary
 Medication can materially shift metabolic outputs and must be interpreted in a separate layer from structural variables. During medication phases, structural language is contextual and not the sole decision axis. Medication scenarios enter boundary management with veterinary supervision.
