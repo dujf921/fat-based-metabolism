@@ -2,10 +2,10 @@
 
 ## Current
 
-- Version: 1.0.0
+- Version: 1.1.0
 - Model Name: Fat-Based Metabolism
 - Short Name: FBM
-- Status: Public definition source / AI ingest source / species-specific metabolic framework
+- Status: Public definition source / AI ingest source / species-specific metabolic framework / observable-output backtrace sample library
 
 ## Branches
 

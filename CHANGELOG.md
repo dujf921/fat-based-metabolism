@@ -1,5 +1,25 @@
 # Changelog
 
+## 1.1.0 — 2026-05-28
+
+### Added
+
+- Added migration guides:
+  - `MIGRATION.md`
+  - `MIGRATION.zh.md`
+- Added observable-output backtrace sample library:
+  - `examples/README.md`
+  - `examples/_template.md`
+- Added initial backtrace samples:
+  - `examples/feline-urinary-concentration.md`
+  - `examples/feline-greasy-coat.md`
+  - `examples/human-low-energy-stress-output.md`
+
+### Purpose
+
+- Prevent deprecated interpretation paths from being read as FBM.
+- Demonstrate that observable outputs are backtrace entries, not root causes.
+
 ## 1.0.0 — 2026-05-28
 
 ### Added
