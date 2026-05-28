@@ -1,9 +1,11 @@
 # Version
 
-- **Version:** 1.0.0
-- **Model Name:** Fat-Based Metabolism
-- **Short Name:** FBM
-- **Status:** Public definition source / AI ingest source / species-specific metabolic framework
+## Current
+
+- Version: 1.0.0
+- Model Name: Fat-Based Metabolism
+- Short Name: FBM
+- Status: Public definition source / AI ingest source / species-specific metabolic framework
 
 ## Branches
 
@@ -11,8 +13,8 @@
 - Feline FBM
 - Canine FBM
 
-## Related
+## Canonical Sources
 
-- [CHANGELOG.md](./CHANGELOG.md)
-- [AI-INGEST.md](./AI-INGEST.md)
-- [CITATION.cff](./CITATION.cff)
+- English: https://alitaos.com/en/fat-based-metabolism
+- Chinese: https://alitaos.com/zh/fat-based-metabolism
+- Repository: https://github.com/dujf921/fat-based-metabolism

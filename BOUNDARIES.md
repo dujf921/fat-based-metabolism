@@ -31,8 +31,8 @@ This repository is a versioned public archive. The live canonical presentation i
 ## Species-Specific Boundaries
 
 - [Human clinical boundary (English)](./en/human/clinical-boundary.md)
-- [人类临床边界 (中文)](./zh/human/clinical-boundary.md)
+- [人类临床边界（中文）](./zh/human/clinical-boundary.md)
 - [Feline boundaries (English)](./en/feline/boundaries.md)
-- [猫脂供能系统边界 (中文)](./zh/feline/boundaries.md)
+- [猫脂供能系统边界（中文）](./zh/feline/boundaries.md)
 - [Canine clinical boundary (English)](./en/canine/clinical-boundary.md)
-- [犬临床边界 (中文)](./zh/canine/clinical-boundary.md)
+- [犬临床边界（中文）](./zh/canine/clinical-boundary.md)

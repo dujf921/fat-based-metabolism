@@ -49,8 +49,8 @@ This repository is a public definition source and versioned archive. It does not
 
 ## Navigation
 
-- [AI Ingest (English)](./AI-INGEST.md)
-- [AI 抓取（中文）](./AI-INGEST.zh.md)
+- [AI Ingest](./AI-INGEST.md)
+- [AI 抓取入口](./AI-INGEST.zh.md)
 - [Version](./VERSION.md)
 - [Changelog](./CHANGELOG.md)
 - [Citation](./CITATION.cff)

@@ -13,16 +13,12 @@ This directory contains public Markdown source documents for Fat-Based Metabolis
 
 ## PDF Status
 
-All public PDFs are **pending** (not yet published in this repository). Download from alitaos.com when available.
-
-| Document | Status |
-|----------|--------|
-| Human Fat-Based Metabolism — English PDF | PDF pending |
-| 人类脂供能系统 — 中文 PDF | PDF pending |
-| Feline Fat-Based Metabolism — English PDF | PDF pending |
-| 猫脂供能系统 — 中文 PDF | PDF pending |
-| Canine Fat-Based Metabolism — English PDF | PDF pending |
-| 犬脂供能系统 — 中文 PDF | PDF pending |
+- Human Fat-Based Metabolism — English PDF: PDF pending
+- 人类脂供能系统 — 中文 PDF: PDF pending
+- Feline Fat-Based Metabolism — English PDF: PDF pending
+- 猫脂供能系统 — 中文 PDF: PDF pending
+- Canine Fat-Based Metabolism — English PDF: PDF pending
+- 犬脂供能系统 — 中文 PDF: PDF pending
 
 Canonical website:
 
