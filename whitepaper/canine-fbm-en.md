@@ -1,135 +1,69 @@
 # Canine Fat-Based Metabolism
-## A Dog-Specific Lower-Insulin Fatty-Acid Energy Contribution Framework
+## 犬脂供能系统
 
 ### 1. Abstract
-
-Canine Fat-Based Metabolism (Canine FBM) is the canine branch of Fat-Based Metabolism. It defines a dog-specific metabolic framework built on reduced exogenous carbohydrate dependency, lower insulin occupancy, increased fatty-acid energy contribution, controlled protein energy pressure, sufficient total energy, digestive tolerance, and long-term body-condition stability.
-
-Canine FBM is not a direct copy of Feline FBM. Dogs are not obligate carnivores in the same structural sense as cats. Canine FBM therefore evaluates dogs through canine-specific metabolic flexibility, not through feline-only assumptions.
-
-This whitepaper defines the public structural model used by AlitaOS to describe how canine food structure changes carbohydrate dependency, insulin allocation, fatty-acid energy contribution, protein energy pressure, digestive tolerance, and long-term body-condition stability.
+Canine Fat-Based Metabolism (Canine FBM) describes long-term food-structure control for dogs. It is a metabolic-flexibility framework with explicit boundaries, not a single-label narrative. The target is higher long-term fatty-acid energy contribution with controlled protein energy pressure and stable body condition.
 
 ### 2. Canonical Source
+This whitepaper is a public archive document and does not replace the canonical web definition. The active canonical source is the canine FBM pages on alitaos.com, while the GitHub repository provides versioned public records.
 
-The canonical web source is hosted at:
+### 3. Core Definition
+Canine Fat-Based Metabolism is a long-term food-structure model built on canine metabolic flexibility. Under reduced exogenous carbohydrate dependency, reduced long-term insulin occupancy, sufficient total energy, and stable digestive tolerance, fatty acids carry a higher long-term energy contribution while protein energy pressure is controlled and body condition remains stable.
 
-- https://alitaos.com/en/fat-based-metabolism/canine
+### 4. Why Canine FBM Is Not Feline FBM
+Dogs are not cats, and canine FBM is not a copy of feline premises. Feline obligate-carnivore assumptions cannot be directly transferred to canine modeling. Cross-species learning can reuse logic, but not direct thresholds or parameter defaults.
 
-The versioned public archive is hosted at:
+### 5. Why Canine FBM Is Not a High-Fat Diet Label
+Canine FBM is not a high-fat diet label; it is a structured variable system. Fat ratio alone is not a conclusion, and more fat alone does not define success. Without energy sufficiency, tolerance stability, and controlled protein pressure, the structure is not established.
 
-- https://github.com/dujf921/fat-based-metabolism
+### 6. Canine Food Structure as Primary Object
+The primary object is canine food structure, not ingredient-name lists. Evaluation must jointly read exogenous carbohydrate dependency, insulin occupancy, fatty-acid energy contribution, protein energy pressure, digestive tolerance, and body-condition stability. Stable interpretation requires structural consistency across variables.
 
-### 3. Definition of Canine Fat-Based Metabolism
+### 7. Why Carbohydrate-Dependency Frames Fail for Dogs
+Single-axis carbohydrate or calorie framing cannot explain canine long-term outputs. Dog outputs are multi-variable and include appetite rhythm, stool output, activity tolerance, and body-condition trend. Compressing this into one axis increases misinterpretation risk.
 
-Canine FBM is a dog-specific metabolic framework in which reduced exogenous carbohydrate dependency and lower insulin occupancy allow fatty acids to carry a higher long-term energy contribution.
+### 8. Exogenous Carbohydrate Dependency and Insulin Occupancy
+Exogenous carbohydrate dependency and insulin occupancy jointly shape long-term allocation direction. Lower dependency and lower occupancy can open stable space for fatty-acid contribution while reducing forced protein energy duty. This is structural scheduling, not short-window storytelling.
 
-The base model is:
+### 9. Why Dogs Can Use FBM
+Dogs have broader metabolic flexibility and can increase fatty-acid contribution when structure conditions are met. This does not mean unlimited tolerance or boundary-free execution. Canine FBM validity depends on coordinated control points, not on any single variable.
 
-reduced exogenous carbohydrate dependency -> lower insulin occupancy -> increased fatty-acid energy contribution -> controlled protein energy pressure -> sufficient total energy -> stable body condition
+### 10. Fatty-Acid Energy Contribution
+Fatty-acid energy contribution is a key output in canine FBM. Contribution changes must be read together with digestive tolerance, energy sufficiency, and body-condition stability. If contribution shifts with tolerance deterioration, structural and boundary backtrace should take priority.
 
-Canine FBM does not treat dogs as cats. It evaluates canine metabolic flexibility, digestive tolerance, protein energy pressure, and long-term body-condition stability under a lower-carbohydrate, higher-fat-contribution structure.
+### 11. Protein Energy Pressure
+Protein energy pressure indicates whether protein is being pushed into excessive energy duty. Persistently high pressure raises tissue-maintenance burden and output instability. Canine FBM requires reducing this pressure through structure, not forcing protein to cover energy gaps.
 
-### 4. Species Boundary: Not Feline FBM
+### 12. Energy Sufficiency and Long-Term Energy Continuity
+Energy sufficiency is a precondition, and long-term energy continuity is a stability indicator. Even with correct variable direction, insufficient total energy drives stress outputs. Continuity must be judged by trend windows rather than single observations.
 
-Canine FBM is not a direct transfer of Feline FBM.
+### 13. Digestive Tolerance and Fat Handling
+Digestive tolerance determines whether execution is sustainable, and fat handling capacity defines contribution ceiling. Tolerance signals should be interpreted together with body condition and activity tolerance. Pushing structure beyond tolerance boundaries increases volatility risk.
 
-Cats are obligate carnivores with structurally low tolerance for exogenous carbohydrate dependency. Dogs have broader metabolic flexibility and must be evaluated through canine-specific digestive tolerance, activity pattern, body-condition stability, and protein energy pressure.
+### 14. Bile-Salt Dispersion, Pancreatic Processing, and Small-Intestine Absorption
+Bile-salt dispersion, pancreatic processing, and small-intestine absorption form the core fat-processing chain. Limits at any step can alter fatty-acid contribution and stool output. Structural evaluation must cover the whole chain, not only intake ratio.
 
-The boundary chain is:
+### 15. Stool Output Backtrace
+Stool output is a high-priority backtrace signal for processing load and recovery status. It cannot be reduced to a single-cause explanation and should not be interpreted in isolation. Use the order: observable pattern -> variables -> system.
 
-species structure -> metabolic flexibility -> substrate tolerance -> valid FBM target
+### 16. Body Condition, Appetite, Coat/Skin, and Activity-Tolerance Backtrace
+Body condition, appetite, coat/skin, and activity tolerance are output-layer signals. Body-condition stability cannot be replaced by short-term weight fluctuation. Appetite decline does not equal FBM success, and coat/skin/activity changes must remain multi-variable backtrace items.
 
-Canine FBM therefore does not claim that dogs should be modeled as cats. It defines a canine-specific lower-carbohydrate, higher-fat-contribution structure.
+### 17. Clinical Boundary
+structural nutrition language, not a diagnostic system, cannot replace veterinary supervision, enters clinical boundary. Acute symptoms, diagnosed disease states, or complex comorbidity scenarios should move to clinical workflow first.
 
-### 5. Exogenous Carbohydrate Dependency
+### 18. Medication Boundary
+Medication can materially shift metabolic outputs and must be interpreted in a separate layer from structural variables. During medication phases, structural language is contextual and not the sole decision axis. Medication scenarios enter boundary management with veterinary supervision.
 
-Exogenous carbohydrate dependency describes the degree to which a dog’s long-term energy regulation relies on external carbohydrate input.
+### 19. Pancreatitis and High-Fat Boundary
+Pancreatitis history or related risk scenarios must enter boundary handling. High-fat tolerance varies substantially between dogs and cannot be generalized by a fixed ratio. Risk management comes before structure escalation.
 
-In Canine FBM, the control point is not the complete absence of every carbohydrate exposure. The control point is whether repeated external carbohydrate input keeps insulin occupancy and substrate scheduling high enough to reduce stable fatty-acid energy contribution.
+### 20. Puppy, Pregnancy, and Lactation Boundary
+Puppy, pregnancy, and lactation stages carry independent physiological constraints and cannot directly reuse standard adult-dog modeling. In these stages, safety monitoring and veterinary supervision are primary, while structural language remains contextual.
 
-The chain is:
+### 21. Claim Boundary
+Canine FBM may state structural causality but may not state disease-management outcomes or universal applicability. External claims must stay bound to variable conditions and boundary assumptions.
 
-exogenous carbohydrate dependency -> insulin occupancy -> substrate scheduling -> fatty-acid energy contribution change
-
-Canine FBM evaluates long-term dependency structure, not single-meal carbohydrate exposure.
-
-### 6. Insulin Regulation State
-
-Insulin regulation state describes how strongly insulin occupies the dog’s long-term energy allocation.
-
-In Canine FBM, insulin is treated as a substrate-allocation signal. Repeated exogenous carbohydrate dependency increases insulin occupancy and keeps energy routing more carbohydrate-scheduled. Lower insulin occupancy allows fatty-acid energy contribution to increase.
-
-The chain is:
-
-exogenous carbohydrate dependency -> insulin occupancy -> substrate allocation -> fatty-acid energy contribution
-
-This is a structural nutrition model, not a clinical treatment claim.
-
-### 7. Fatty-Acid Energy Contribution
-
-Fatty-acid energy contribution describes the share of long-term energy carried by fatty acids in the dog’s metabolic system.
-
-Canine FBM does not require the feline premise of strict obligate carnivory. It defines a canine target state in which fatty acids provide a higher and more stable energy contribution while protein energy pressure remains controlled and digestive tolerance is preserved.
-
-The chain is:
-
-lower insulin occupancy -> fatty-acid availability -> increased fatty-acid energy contribution -> stable energy output
-
-This term is not a high-fat label. It describes the operating contribution of fatty acids inside the long-term energy system.
-
-### 8. Protein Energy Pressure
-
-Protein energy pressure describes the degree to which protein is forced into energy supply because the food structure does not provide a stable energy substrate pattern.
-
-In Canine FBM, protein must not become the main emergency energy route. A valid structure keeps protein available for tissue maintenance while fatty acids carry a higher energy contribution.
-
-The chain is:
-
-unstable energy substrate structure -> increased protein energy pressure -> tissue-maintenance risk -> unstable long-term body condition
-
-Canine FBM therefore evaluates protein not only by amount, but by whether protein is being protected from unnecessary energy diversion.
-
-### 9. Digestive Tolerance Boundary
-
-Digestive tolerance is a required boundary condition for Canine FBM.
-
-A canine fat-based structure must increase fatty-acid energy contribution without overwhelming digestive handling. Stool instability, persistent vomiting, refusal, or clear digestive distress means the structure has crossed a tolerance boundary and must be re-evaluated.
-
-The boundary chain is:
-
-fatty-acid energy contribution -> digestive handling demand -> tolerance boundary -> observable output
-
-Canine FBM therefore does not treat higher fat contribution as unlimited. It requires digestive tolerance and long-term body-condition stability at the same time.
-
-### 10. Body-Condition Stability
-
-Body-condition stability is the long-term observable state used to evaluate whether Canine FBM is functioning inside its valid range.
-
-Canine FBM does not use short-term weight change as the sole output. Body condition reflects fat storage, lean tissue maintenance, appetite stability, stool output, activity tolerance, and energy continuity.
-
-The chain is:
-
-food structure -> insulin occupancy and substrate allocation -> fatty-acid energy contribution -> protein energy pressure -> body-condition stability
-
-Stable body condition requires sufficient total energy, preserved lean tissue, digestive tolerance, and controlled carbohydrate dependency.
-
-### 11. Clinical Boundary
-
-Canine FBM is not a diagnosis system, treatment protocol, or replacement for veterinary care.
-
-The framework describes canine food structure, exogenous carbohydrate dependency, insulin regulation state, fatty-acid energy contribution, protein energy pressure, digestive tolerance, and body-condition stability.
-
-Clinical boundary conditions include diagnosed disease, medication effects, pregnancy, lactation, severe underweight state, acute illness, pancreatitis history, uncontrolled endocrine disease, renal disease, liver disease, or any condition requiring veterinary supervision.
-
-When clinical boundary conditions are present, Canine FBM can only function as structural nutrition language. It cannot be used as diagnosis, cure, treatment, or veterinary override.
-
-### 12. Conclusion
-
-Canine FBM is a structural interpretation framework for dog-specific fat-based metabolism. It does not copy feline assumptions and does not define dogs as cats. Its control point is the lower-carbohydrate, lower-insulin structure that allows fatty acids to carry a higher energy contribution while protein energy pressure and digestive tolerance remain controlled.
-
-By separating exogenous carbohydrate dependency, insulin regulation state, fatty-acid energy contribution, protein energy pressure, digestive tolerance, body-condition stability, and clinical boundary conditions, Canine FBM provides a stable language for interpreting canine fat-based metabolic structure.
-
-### 13. Canonical Links
-
+### 22. Canonical Links
 - Canine FBM canonical source: https://alitaos.com/en/fat-based-metabolism/canine
 - Public GitHub archive: https://github.com/dujf921/fat-based-metabolism
